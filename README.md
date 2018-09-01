@@ -3,16 +3,16 @@
 크리킨디-코딩클래스
 
 - 기간 : 2018.09.08.(토) ~ 10.27(토) 오후 4시~7시 / 총 6회
-- 대상 : 생활코딩 WEB1 강좌 수강을 마친 14세~19세 청소년 15명 
-         ※생활코딩 WEB1 https://www.opentutorials.org/course/3084
+- 대상 : 생활코딩 [WEB1](https://opentutorials.org/course/3084)  강좌 수강을 마친 14세~19세 청소년 15명 
+         ※ 생활코딩 WEB1 https://www.opentutorials.org/course/3084
 - 내용
-컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
+> 컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
 HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지 제작
 
 ## 수업구성과 상세내용
-1. LECTURE : 컴퓨터과학의 역사와 철학 그리고 인물
+1. LECTURE : [컴퓨터과학의 역사와 철학 그리고 인물]()
 2. PRACTICE : 개별 프로젝트에 실행과 코드 리뷰 및 비평 (CSS 템플릿 제공)
-* 깃허브(https://github.com)에서 포크, 풀리퀘스트 기능을 이용하면서 협업과 프로젝트 관리하는 방법을 경험함
+* [깃허브](https://github.com)에서 [포크](https://help.github.com/articles/about-forks/), [풀리퀘스트 기능](https://help.github.com/articles/about-pull-requests/)을 이용하면서 협업과 프로젝트 관리하는 방법을 경험함
 
 
 ## 9/8, 16시 부터 ~ 19시 까지
