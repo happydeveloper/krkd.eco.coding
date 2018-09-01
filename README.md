@@ -3,7 +3,8 @@
 크리킨디-코딩클래스
 
 - 기간 : 2018.09.08.(토) ~ 10.27(토) 오후 4시~7시 / 총 8회
-- 대상 : 생활코딩 [WEB1](https://opentutorials.org/course/3084)  강좌 수강을 마친 14세~19세 청소년 15명 
+- 대상 :  
+         - [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명 
          - 생활코딩 WEB1 https://www.opentutorials.org/course/3084
          - 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
 - 내용
@@ -38,7 +39,7 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 버전관리과 왜 필요하고 효용
 - [Git 의 기본 기능 배우기](https://opentutorials.org/course/2708)
 - Git 과 [Github](https://opentutorials.org/course/2708/15465)를 통해 문서를 공유해보기
-- 마크다운 배우기
+- [마크다운](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4) 배우기]
 - Github에 HTML 페이지 퍼브리싱 하기
 
 ## 0과 1의 의미와 WEB와 CSS 기본과 구조 (9/15)
