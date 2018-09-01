@@ -4,8 +4,8 @@
 
 - 기간 : 2018.09.08.(토) ~ 10.27(토) 오후 4시~7시 / 총 8회
 - 대상 : 생활코딩 [WEB1](https://opentutorials.org/course/3084)  강좌 수강을 마친 14세~19세 청소년 15명 
-         > ※ 생활코딩 WEB1 https://www.opentutorials.org/course/3084
-         > 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
+         - 생활코딩 WEB1 https://www.opentutorials.org/course/3084
+         - 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
 - 내용
 > 컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
 HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지 제작
