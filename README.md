@@ -1,19 +1,19 @@
 # krkd.eco.coding
 
-크리킨디-코딩클래스
+[크리킨디-코딩클래스](http://krkd.eco/)
 
 - 기간 : 2018.09.08.(토) ~ 10.27(토) 오후 4시~7시 / 총 8회
 - 대상 :  
-         - [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명 
-         - 생활코딩 WEB1 https://www.opentutorials.org/course/3084
-         - 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
+         1. [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명 
+         2. 생활코딩 WEB1 https://www.opentutorials.org/course/3084
+         3. 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
 - 내용
 > 컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
 HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지 제작
 
 ## 수업구성과 상세내용
 1. LECTURE : [컴퓨터과학의 역사와 철학 그리고 인물](https://opentutorials.org/module/3647/21828)
-2. PRACTICE : 개별 프로젝트에 실행과 코드 리뷰 및 비평 (CSS 템플릿 제공)
+2. PRACTICE : 개별 프로젝트에 실행과 코드 리뷰 및 [비평](https://opentutorials.org/course/1381/6830) (CSS 템플릿 제공)
 * [깃허브](https://github.com)에서 [포크](https://help.github.com/articles/about-forks/), [풀리퀘스트 기능](https://help.github.com/articles/about-pull-requests/)을 이용하면서 협업과 프로젝트 관리하는 방법을 경험함
 
 
@@ -34,7 +34,7 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 오픈소스 문화에 대하여 
   
 ### 2교시 :  연습시간
-- 각자 작성한 웹사이트 기획서 공유하기
+- 각자 작성한 [웹사이트 기획서](https://opentutorials.org/course/1688/9333) 공유하기
 - 하나의 문서를 동시에 여러명이 편집해보기
 - 버전관리과 왜 필요하고 효용
 - [Git 의 기본 기능 배우기](https://opentutorials.org/course/2708)
@@ -125,12 +125,12 @@ CSS 레이아웃의 연장에서 그리드 기능과 마진겹칩 문제를 해�
 그리고 학생들이 설정한 프로젝트의 결과물을 공유하고 문제해결을 하는 과정을 공유하는 시간을 가질 예정이다.
 
 ### 1교시 : 역사와 철학의 시간
--	점과 점들의 만남들
--	컴퓨터 과학이 쓰이는 분야들에 대하여 토론
+- 점과 점들의 만남들
+- 컴퓨터 과학이 쓰이는 분야들에 대하여 토론
 
 ### 2교시 : 연습시간
--	완성한 웹사이트와 기획 의도 공유
--	스스로 문제 해결한 사례들에 대하여 토론
+- 완성한 웹사이트와 기획 의도 공유
+- 스스로 문제 해결한 사례들에 대하여 토론
 
 
 ## 프로그래밍 추천책과 참조한 곳
