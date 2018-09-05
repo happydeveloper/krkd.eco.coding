@@ -2,7 +2,7 @@
 
 [크리킨디-코딩클래스](http://krkd.eco/)
 
-- 기간 : 2018.09.15.(토) ~ 10.3(토) 오후 4시~7시 / 총 8회
+- 기간 : 2018.09.15.(토) ~ 11.3(토) 오후 4시~7시 / 총 8회
 - 대상 :  
          - [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명 
          - 생활코딩 WEB1 https://www.opentutorials.org/course/3084
