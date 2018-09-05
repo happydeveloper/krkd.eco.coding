@@ -137,3 +137,6 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 ## 프로그래밍 추천책과 참조한 곳
 - [이광근교수님 - 컴퓨터과학이 여는 세상](https://cse.snu.ac.kr/node/20089)
 - [한권으로 그리는 컴퓨터 과학](http://www.insightbook.co.kr/12780)
+
+## 참가신청
+- [참가신청](https://docs.google.com/forms/d/10yz8qAlrhi2iWKnKoFUfXfo57q3ddFnY8gag-gU1Fp0/viewform?edit_requested=true)
