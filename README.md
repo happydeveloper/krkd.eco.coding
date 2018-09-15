@@ -23,7 +23,8 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 이든
 - 다이
 - 랄라
-- 
+- 지원
+
 ## 수업구성과 상세내용
 1. LECTURE : [컴퓨터과학의 역사와 철학 그리고 인물](https://opentutorials.org/module/3647)
 2. PRACTICE : 개별 프로젝트에 실행과 코드 리뷰 및 [비평](https://opentutorials.org/course/1381/6830) (CSS 템플릿 제공)
