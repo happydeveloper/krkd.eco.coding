@@ -73,6 +73,10 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - [기본 HTML과 CSS 강의 살펴보기]()
 - [CSS 구조와 동작 원리 파악]()
 - [CSS 선택자를 활용하여 정보 꾸미기]()
+- [Atom 에디터 익히기](https://opentutorials.org/module/1579)
+- 기본 HTML과 CSS 강의 살펴보기
+- CSS 구조와 동작 원리 파악
+- CSS 선택자를 활용하여 정보 꾸미기
 - [선택자 게임 – 연습해보기](https://flukeout.github.io/)
 - Git branch 배우기 [삭제]
 - Github pull request하기(협업하기) [삭제]
