@@ -70,9 +70,9 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - [0과 1에서 출발해서 컴퓨터가 탄생하기까지]()
 
 ### 2교시 : 연습시간
-- [기본 HTML과 CSS 강의 살펴보기]()
+- [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/2418/13342)
 - [CSS 구조와 동작 원리 파악]()
-- [CSS 선택자를 활용하여 정보 꾸미기]()
+- [CSS 선택자를 활용하여 정보 꾸미기](https://opentutorials.org/course/2418/13500)
 - [Atom 에디터 익히기](https://opentutorials.org/module/1579)
 - 기본 HTML과 CSS 강의 살펴보기
 - CSS 구조와 동작 원리 파악
