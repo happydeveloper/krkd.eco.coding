@@ -7,8 +7,7 @@
 - 기간 : 2018.09.15.(토) ~ 11.3(토) 오후 4시~7시 / 총 8회
 - 대상 :  
 ⋅⋅* [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명
-⋅⋅* 생활코딩 WEB1 https://www.opentutorials.org/course/3084
-⋅⋅* [선택사항]- 자신이 표현하고 싶은 웹사이트 기획 [웹사이트기획](https://opentutorials.org/course/1688/9333)
+⋅⋅* [선택사항]- 자신이 표현하고 싶은 웹사이트 기획 [기획이란](https://opentutorials.org/course/1688/9333)
 - 내용
 > 컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
 HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지 제작
@@ -40,11 +39,11 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 > 첫날은 컴퓨터 과학에 전체적인 흐름을 살펴보고 버전관리를 통해 정보를 어떻게 구조화하고 여러사람들이 어떻게 협업하는지에 대하여 연습한다. 학생들이 작성한 간단한 [웹사이트 기획](https://opentutorials.org/course/1688/9333)을 서로 공유하는 시간을 가지면서 자신의 문제를 도출해본다. 마지막으로 생활코딩 WEB1 강의에 중요한 내용을 복기하고 궁금했던 내용에 대해 질의하는 시간을 갖는다.
 
 ### 1교시 :  클래스 안내, 역사와 철학의 시간
-- 매트릭스
+- [매트릭스-빨간약](https://github.com/happydeveloper/krkd.eco.coding/blob/master/915_%EA%B0%95%EC%9D%98%EC%95%88.pdf)
 - [시청각(이미테이션 게임)](https://www.youtube.com/watch?v=nuPZUUED5uk)
-- 컴퓨터 과학의 전체적인 모습을 파악
+- [컴퓨터 과학의 전체적인 모습을 파악](https://github.com/happydeveloper/krkd.eco.coding/blob/master/915_%EA%B0%95%EC%9D%98%EC%95%88.pdf)
 - [코딩의 힘에 대하여 생각해보기](https://opentutorials.org/course/3084/18598)
-- [0과1의 의미가 무엇인지](https://opentutorials.org/module/3647/21828)(0과 1로 정보를 각자 자신만의 정보를 담기)
+- [0과1의 의미가 무엇인지](https://github.com/happydeveloper/krkd.eco.coding/blob/master/922_%EA%B0%95%EC%9D%98%EC%95%88.pdf)(0과 1로 정보를 각자 자신만의 정보를 담기)
 - [기계와 우리의 대화 (프로그래밍 언어 / 컴파일러)](https://opentutorials.org/module/3647/21829), 기계어 – 어셈블리어 – 저급언어 - 고급언어 – 인간의 언어에 대하여 생각
 - 식사하는 철학자 (운영체제)
 - 우리들의 약속 (통신과 프로토콜)
@@ -56,30 +55,24 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 하나의 문서를 동시에 여러명이 편집해보기
 - HTML Tag 연습
 > Git수업은 마지막에 집중적으로 다루기, 수업중 강사만 사용하면서 익숙하게 할 예정
-- 왜 필요한가? 효용성의 문제 [삭제]
-- [Git 의 기본 기능 배우기](https://opentutorials.org/course/2708) [삭제]
-- Git과 [Github](https://opentutorials.org/course/2708/15465)를 통해 문서를 공유해보기 [삭제]
-- [마크다운](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4) 배우기 [삭제]
-- Github에 HTML 페이지 퍼블리싱 하기
+- Git과 [Github](https://opentutorials.org/course/2708/15465)를 통해 문서를 공유해보기
+
 
 ## 0과 1의 의미와 WEB와 CSS 기본과 구조 (9/22)
 > 0과 1의 의미를 생각해보면서 현대의 컴퓨터가 발전하게 되는 역사와 그 성과를 이룬 인물을 살펴보면서 컴퓨터 구현의 원천 생각을 살펴본다. 컴퓨터과학을 보는 새로운 시각 갖기. HTML과 핵심을 살펴보고 CSS의 구조와 선택자를 이해하고 연습해보면서 Git를 이용하여 헙업하는 법을 경험해본다.
 
 ### 1교시 : 역사와 철학의 시간
-- [0과 1의 의미(논리회로/컴퓨터구조)]()
-- [0과 1에서 출발해서 컴퓨터가 탄생하기까지]()
+- [0과 1에서 출발해서 컴퓨터가 탄생하기까지](https://github.com/happydeveloper/krkd.eco.coding/blob/master/922_%EA%B0%95%EC%9D%98%EC%95%88.pdf)
 
 ### 2교시 : 연습시간
-- [기본 HTML과 CSS 강의 살펴보기]()
-- [CSS 구조와 동작 원리 파악]()
-- [CSS 선택자를 활용하여 정보 꾸미기]()
+- [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/3084)
+- [CSS 구조와 동작 원리 파악](https://opentutorials.org/course/3086/18318)
+- [CSS 선택자](https://opentutorials.org/course/2418/13346)
+- [선택자의 종류-태그, 클래스, 아이디](https://opentutorials.org/course/2418/13346)
+- [캐스케이딩](https://opentutorials.org/course/2418/13409)
 - [Atom 에디터 익히기](https://opentutorials.org/module/1579)
-- 기본 HTML과 CSS 강의 살펴보기
-- CSS 구조와 동작 원리 파악
-- CSS 선택자를 활용하여 정보 꾸미기
 - [선택자 게임 – 연습해보기](https://flukeout.github.io/)
-- Git branch 배우기 [삭제]
-- Github pull request하기(협업하기) [삭제]
+
 
 ## 기계와 우리의 대화, CSS 박스모델 (9/29)
 > 컴퓨터의 탄생과정을 복기하고 토론해보면서 컴퓨터의 핵심원리를 생각해보는 시간을 갖는다. CSS 선택자 게임을 통해 CSS 선택자를 이해하고 웹페이지 레이아웃을 하기 위해 필요한 인라인과 블럭레벨, 박스모델을 이해하고 연습한다.
@@ -95,7 +88,12 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - CSS 선택자 게임해보기
 - CSS 인라인 VS 블럭레벨 이해하기
 - CSS 박스모델 이해하기
+- [Git 의 기본 기능 배우기](https://opentutorials.org/course/2708)
+- [마크다운](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4) 배우기 [삭제]
+- [Github에 HTML 페이지 퍼블리싱 하기]()
+- Git 기본명령어 branch
 - Github pull / request하기 [삭제]
+- Github pull request하기(협업하기) [삭제]
 
 
 ## 식사하는 철학자와 추상화와 CSS 레이아웃 (10/6)
@@ -151,7 +149,7 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 컴퓨터 과학이 쓰이는 분야에 대해 토론
 
 ### 2교시 : 연습시간
-- 완성한 웹사이트와 기획 의도 공유
+- 완성한 웹사이트 공유
 - 스스로 문제 해결한 사례에 대하여 토론
 
 
