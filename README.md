@@ -65,11 +65,17 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - [0과 1에서 출발해서 컴퓨터가 탄생하기까지](https://github.com/happydeveloper/krkd.eco.coding/blob/master/922_%EA%B0%95%EC%9D%98%EC%95%88.pdf)
 
 ### 2교시 : 연습시간
+<<<<<<< HEAD
 - [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/3084)
 - [CSS 구조와 동작 원리 파악](https://opentutorials.org/course/3086/18318)
 - [CSS 선택자](https://opentutorials.org/course/2418/13346)
 - [선택자의 종류-태그, 클래스, 아이디](https://opentutorials.org/course/2418/13346)
 - [캐스케이딩](https://opentutorials.org/course/2418/13409)
+=======
+- [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/2418/13342)
+- [CSS 구조와 동작 원리 파악]()
+- [CSS 선택자를 활용하여 정보 꾸미기](https://opentutorials.org/course/2418/13500)
+>>>>>>> 91b536918ce6492e65396ce837d0221bf9cc5c2f
 - [Atom 에디터 익히기](https://opentutorials.org/module/1579)
 - [선택자 게임 – 연습해보기](https://flukeout.github.io/)
 
