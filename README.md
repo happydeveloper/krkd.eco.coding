@@ -7,20 +7,21 @@
 - 기간 : 2018.09.15.(토) ~ 11.3(토) 오후 4시~7시 / 총 8회
 - 대상 :  
 ⋅⋅* [생활코딩 WEB1](https://opentutorials.org/course/3084) 강좌 수강을 마친 14세~19세 청소년 15명
-⋅⋅* [선택사항]- 자신이 표현하고 싶은 웹사이트 기획 [기획이란](https://opentutorials.org/course/1688/9333)
+⋅⋅* [자신이 표현하고 싶은 웹사이트 기획](https://opentutorials.org/course/1688/9333)
+
 - 내용
 > 컴퓨터 사이언스(computer science)의 역사와 철학을 바탕으로 프로그래밍 전반의 핵심원리와 개념을 이해
 HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지 제작
 
 ## 참여자
-- 두루
-- 이비
-- 희망
-- 마르코
-- 이든
-- 다이
-- 랄라
-- 지원
+- 두루 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_duru.html)
+- 이비 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_eb.html)
+- 희망 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_hope.html)
+- 마르코 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_marco.html)
+- 이든 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_eden.html)
+- 다이 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_dai.html)
+- 랄라 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_lala.html)
+- 지원 [데모페이지확인](https://happydeveloper.github.io/krkd.eco.coding/index_jiwon.html)
 
 ## 작업규칙
 ### 파일명
@@ -65,18 +66,11 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - [0과 1에서 출발해서 컴퓨터가 탄생하기까지](https://github.com/happydeveloper/krkd.eco.coding/blob/master/922_%EA%B0%95%EC%9D%98%EC%95%88.pdf)
 
 ### 2교시 : 연습시간
-<<<<<<< HEAD
 - [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/3084)
 - [CSS 구조와 동작 원리 파악](https://opentutorials.org/course/3086/18318)
 - [CSS 선택자](https://opentutorials.org/course/2418/13346)
 - [선택자의 종류-태그, 클래스, 아이디](https://opentutorials.org/course/2418/13346)
-- [캐스케이딩](https://opentutorials.org/course/2418/13409)
-=======
-- [기본 HTML과 CSS 강의 살펴보기](https://opentutorials.org/course/2418/13342)
-- [CSS 구조와 동작 원리 파악]()
-- [CSS 선택자를 활용하여 정보 꾸미기](https://opentutorials.org/course/2418/13500)
->>>>>>> 91b536918ce6492e65396ce837d0221bf9cc5c2f
-- [Atom 에디터 익히기](https://opentutorials.org/module/1579)
+- [캐스케이딩](https://opentutorials.org/course/2418/13409)- [Atom 에디터 익히기](https://opentutorials.org/module/1579)
 - [선택자 게임 – 연습해보기](https://flukeout.github.io/)
 
 
