@@ -87,7 +87,6 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - CSS 선택자 복기
 - CSS 선택자 게임해보기
 - CSS 인라인 VS 블럭레벨 이해하기
-- CSS 박스모델 이해하기
 - [Git 의 기본 기능 배우기](https://opentutorials.org/course/2708)
 - [마크다운](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4) 배우기 [삭제]
 - [Github에 HTML 페이지 퍼블리싱 하기]()
@@ -112,8 +111,9 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 - 동료들이 레이아웃하는 방식에 대하여 코드 리뷰
 - 도메인 구매하기
 - Github Page 도메인 연결하기
-- CSS 마진겹 현상 연습하기
-- CSS 레이아웃
+- [CSS 박스모델 이해하기]()
+- [CSS 마진겹 현상 연습하기](https://opentutorials.org/course/2418/13464)
+- [CSS 레이아웃]()
 - CSS 그리드 기능
 - 프로그래밍적인 문제를 질문하는 법 연습하기
 
