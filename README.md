@@ -97,18 +97,20 @@ HTML+CSS 기본 템플릿에서 챌린지를 수행하면서 독립 웹페이지
 ### 1교시 : 역사와 철학의 시간
 - [0과 1에서 출발해서 컴퓨터가 탄생하기까지](https://github.com/happydeveloper/krkd.eco.coding/blob/master/922_%EA%B0%95%EC%9D%98%EC%95%88.pdf) 대하여 복기/토론
 - [기계와 우리의 대화(프로그래밍/컴파일러)]()에 대하여 복기/토론
-- 컴퓨터 프로그래밍이 무엇인지 대하여 토론
-- 식사하는 철학자(운영체제)
-- 추상화 계층구조란 무엇인가
 
 ### 2교시 : 연습시간
+- [WEB1 HTML 복습](https://opentutorials.org/course/3084)
 - [CSS 박스모델 이해하기](https://opentutorials.org/course/2418/13404)
 - [CSS 마진겹 현상 연습하기](https://opentutorials.org/course/2418/13464)
 - [CSS 레이아웃](https://opentutorials.org/course/2418/13527)
 - 프로그래밍적인 문제를 질문하는 법 연습하기
 
 ## 프로젝트 모여서 실습 (10/13)
-> 코딩작업장에서 각자 코딩하고 서로 물어가면서 문제 해결하기
+> 이고잉님이 특강(web1, css 기본, 레이아웃) 1시간
+> 파일명 [INDEX_[필명]_mid.html] 로 함 예) INDEX_DURU_MID.HTML
+> 지금까지 배운 내용을 토대로 프로젝트 진행, 만들고 싶은 사이트 2시간동안 만들기
+> 각자의 사이트를 만들어 github 에 올리기 
+
 
 ## 우리들의 대화와 사이트에 이름 붙이기, CSS 라이브러리 활용 (10/20)
 > 10월 첫주는 Github를 통하여 프로젝트를 진행하고 통신과 프로토콜과 인터넷의 역사와 웹에 대하여 토론한다.
