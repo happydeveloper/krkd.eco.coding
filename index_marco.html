@@ -1,17 +1,23 @@
 <html>
 
 <head>
-  <title>학교 정보 공유소</title>
+  <title>시공 조아</title>
   <style>
     body {
-      background-color: gray;
+      background-color: lightgray;
     }
 
-    .group1 {
-      color: orange;
-      background-color: slateblue;
+    .body1 {
+      color: white;
+      background-color: gray;
       display: block;
-      margin: 0px auto;
+      margin-bottom: 10px auto;
+      width: 100%;
+    }
+
+    .image1 {
+      width: 100%;
+      height: auto;
     }
 
     ol {
@@ -23,46 +29,93 @@
       display: block;
       text-align: center;
       color: black;
-      background-color: mediumseagreen;
-      border: 3px dashed blue;
+      background-color: 33CFCF;
+      border: 3px dashed green;
       margin: 5px;
     }
 
-    #_id1 {
+    .float1 {
+      background-color: white;
+      color: white;
+      border: solid black 4px;
+      right: 0;
+      bottom: 0;
+      position: fixed;
+      height: 6rem;
+      width: 6rem;
+      margin: 0;
+    }
+
+    #title {
       color: lightgray;
       background-color: black;
       text-align: center;
+    }
+
+    .hots_image {
+      width: 6rem;
+      height: 6rem;
     }
   </style>
 </head>
 
 <body>
   <div>
-    <h1 id="_id1">학교 홈페이지 불편해서 만든 페이지</h1>
+    <h1 id="title">시공 홍보 페이지</h1>
     <ol>
       <h2>
-        <li>급식정보</li>
+        <li>히오스 소개영상</li>
       </h2>
-      <p class="group1">급식 정보(한달씩만 업데이트)</p>
+      <iframe width="100%" height="400" src="https://www.youtube.com/embed/39jIht0Hr6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
       <h2>
-        <li>대회공지</li>
+        <li>영웅 목록</li>
       </h2>
-      <P class="group1">학교 교내 대회(개인 수정 불가), 교외대회(개인 수정 가능)</p>
+      <p class="body1">이 게임은 4종류의 직업군을 가지고 있습니다. 각 직업군마다 특색이 있어서 다양한 조합으로 게임을 즐길 수 있습니다.
+      </p>
+      <img class="image1" src="marco_image\hots_worrior.png" alt="worrior">
+      <h3>전사</h3>
+      <p class="body1">
+        전사는 이동 및 전투시 최전선에 서서 상대의 기술공격과 일반공격을 맞아주며 팀원들을 보호하는 역할을 한다.
+      </p>
+
+      <img class="image1" src="marco_image\hots_assasin.png" alt="assasin">
+      <h3>암살자</h3>
+      <p class="body1">
+        암살자는 데미지를 넣는 것을 주로 하며, 근접 암살자와 원거리 암살자로 나뉜다.
+      </p>
+
+      <img class="image1" src="marco_image\hots_support.png" alt="support">
+      <h3>지원가</h3>
+      <p class="body1">
+        지원가는 아군 영웅들을 스킬을 이용해 보호해주거나 버프를 주는 역할을 한다. 상대를 공격하여 지원하는 경우도 있다.
+      </p>
+
+      <img class="image1" src="marco_image\hots_specialist.png" alt="specialist">
+      <h3>전문가</h3>
+      <p class="body1">
+        전문가는 영웅들끼리의 전투 이외에도 다양한 형태의 플레이로 게임을 진행 할 수 있도록 하는 직업군이다.
+      </p>
+
       <h2>
-        <li>가정통신문</li>
+        <li>뭐? 이게임에도 프로게이머가 있다고?</li>
       </h2>
-      <P class="group1">학교 가정통신문(중요한것만)</p>
+      <a href="https://esports.heroesofthestorm.com/ko-kr/" target="_blank" title="프로리그 보러가기"><img class="image1" src="marco_image\다운로드.jpg" alt="프로리그"></a>
+      <P class="body1">우</p>
+
       <h2>
         <li>공지사항</li>
       </h2>
-      <P class="group1">학교 관련 공지사항이 올라옴(개인이 수정 가능하도록 할 예정)</p>
+      <P class="body1">학교 관련 공지사항이 올라옴(개인이 수정 가능하도록 할 예정)</p>
       <h2>
         <li>시험 관련 공지</li>
       </h2>
-      <p><a href="http://www.sangmoon.hs.kr/index.do" target="_blank" title="상문고 홈페이지"><img src="https://images.unsplash.com/photo-1529530385195-5f7be6bb3d12?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=49b859cd2088796c798eb8839da8ed9b&auto=format&fit=crop&w=1000&q=60"
-            alt="상문고" width="300px" /></a>학교 홈페이지</p>
+      <ul class="body1">
+
+      </ul>
     </ol>
   </div>
+  <p class="float1"><a href=" http://www.sangmoon.hs.kr/index.do" target="_blank" title="시공조아"><img class="hots_image" src="marco_image\heroes_of_the_storm.png" alt="시공"></a></p>
 </body>
 
 </html>
