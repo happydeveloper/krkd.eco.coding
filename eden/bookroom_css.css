@@ -1,10 +1,9 @@
 body {
-  //background-color: #692;
   background-color: #fff;
 }
 .title {
   font-family: "궁서";
-  min-width: 405px;
+  min-width: 670px;
   margin: 5px;
   padding: 20px;
   font-size: 50px;
@@ -14,8 +13,14 @@ body {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 120fr;
+  grid-gap: 10px;
+}
 .smalltitle {
   font-weight:bold;
+  font-size: 20px
 }
 li{
   margin-bottom: 10px;
@@ -25,6 +30,7 @@ li a {
     color: #595959;
 }
 .point {
+  padding-right: 5px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -33,7 +39,7 @@ li a {
   margin: 5px;
   min-width: 150px;
   width: 15%;
-  min-height: 500px;
+  min-height: 475px;
   border: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -44,8 +50,6 @@ li a {
 }
 
 .readinglist {
-  //min-width: 150px;
-  //width: 15%;
   border-top: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -54,7 +58,6 @@ li a {
 .listgrid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  //grid-auto-rows: minmax(10px, auto);
   grid-gap: 10px;
 }
 .readinglist_book {
@@ -73,4 +76,7 @@ li a {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
+}
+.sarth {
+  
 }
