@@ -1,0 +1,70 @@
+body {
+  //background-color: #692;
+  background-color: #fff;
+}
+.title {
+  font-family: "궁서";
+  min-width: 405px;
+  margin: 5px;
+  padding: 20px;
+  font-size: 50px;
+  text-align: center;
+  border-bottom: #000000 solid 3px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.smalltitle {
+  font-weight:bold;
+}
+li{
+  margin-bottom: 10px;
+
+}
+li a {
+    color: #595959;
+}
+.point {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.list {
+  margin: 5px;
+  min-width: 150px;
+  width: 15%;
+  min-height: 500px;
+  border: #cccccc solid 2px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.contentlist{
+
+}
+
+.readinglist {
+  margin: 5px;
+  //min-width: 150px;
+  //width: 15%;
+  border-top: #cccccc solid 2px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.readinglist_book {
+    border: #cccccc solid 1px;
+    max-width: 155px;
+    text-align: justify;
+}
+.readinglist_book_photo {
+  max-width: 150px;
+  margin: 3px;
+}
+.content {
+  margin: 5px;
+  border-top: #cccccc solid 2px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
