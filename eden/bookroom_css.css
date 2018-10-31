@@ -44,7 +44,6 @@ li a {
 }
 
 .readinglist {
-  margin: 5px;
   //min-width: 150px;
   //width: 15%;
   border-top: #cccccc solid 2px;
@@ -52,10 +51,17 @@ li a {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+.listgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  //grid-auto-rows: minmax(10px, auto);
+  grid-gap: 10px;
+}
 .readinglist_book {
-    border: #cccccc solid 1px;
-    max-width: 155px;
-    text-align: justify;
+  border: #cccccc solid 1px;
+  max-width: 155px;
+  text-align: justify;
+  margin: 2.5px
 }
 .readinglist_book_photo {
   max-width: 150px;
