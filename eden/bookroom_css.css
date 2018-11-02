@@ -1,4 +1,5 @@
 body {
+  margin: 13px;
   background-image: url('배경.PNG');
   background-repeat: repeat-x;
   background-position: top center;
@@ -6,14 +7,16 @@ body {
   background-size: auto 250px;
 }
 .title {
-  border-color: #fff;
+  color: #cc6600;
+  text-shadow: 4px 4px 10px #804000;
+  background-color: rgba(255, 153, 51, 0.5);
   font-family: "궁서";
   min-width: 670px;
-  margin: 5px;
+  margin-bottom: 5px;
   padding: 20px;
   font-size: 50px;
   text-align: center;
-  border-bottom: #000000 solid 3px;
+  border-bottom: #dde7cb solid 3px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -35,18 +38,17 @@ li a {
     color: #595959;
 }
 .point {
-  padding-right: 5px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
 .list {
-  background-color: #fff;
-  margin: 5px;
+  padding-left: 5px;
+  background-color: rgba(239, 244, 230, 0.5);
   min-width: 150px;
   width: 15%;
-  min-height: 2450px;
-  border: #cccccc solid 2px;
+  min-height: 450px;
+  border: #dde7cb solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -56,7 +58,8 @@ li a {
 }
 
 .readinglist {
-  border-top: #cccccc solid 2px;
+  background-color: rgba(239, 244, 230, 0.5);
+  border-top: #dde7cb solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -67,7 +70,7 @@ li a {
   grid-gap: 10px;
 }
 .readinglist_book {
-  border: #cccccc solid 1px;
+  border: #dde7cb solid 1px;
   max-width: 155px;
   text-align: justify;
   margin: 2.5px
@@ -77,8 +80,9 @@ li a {
   margin: 3px;
 }
 .content {
+  background-color: rgba(239, 244, 230, 0.5);
   border-color: #fff;
-  margin: 5px;
+  margin-top: 5px;
   border-top: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
