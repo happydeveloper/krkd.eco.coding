@@ -7,10 +7,10 @@ body {
   background-size: auto 250px;
 }
 .title {
-  color: #cc6600;
-  text-shadow: 4px 4px 10px #804000;
+  color: #000;
+  text-shadow: 4px 4px 10px #333;
   background-color: rgba(255, 153, 51, 0.5);
-  font-family: "궁서";
+  font-family: "명조";
   min-width: 670px;
   margin-bottom: 5px;
   padding: 20px;
