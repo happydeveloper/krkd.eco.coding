@@ -1,0 +1,31 @@
+<h2>
+  <li>영웅 목록</li>
+</h2>
+<p class="body1">이 게임은 4종류의 직업군을 가지고 있습니다. 각 직업군마다 특색이 있어서 다양한 조합으로 게임을 즐길 수 있습니다.
+
+</p>
+<h2>전사</h2>
+<img class="image1" src="marco_image\hots_worrior.png" alt="worrior">
+<p class="body1">
+  전사는 이동 및 전투시 최전선에 서서 상대의 기술공격과 일반공격을 맞아주며 팀원들을 보호하는 역할을 한다.
+</p>
+
+<h2>암살자</h2>
+<img class="image1" src="marco_image\hots_assasin.png" alt="assasin">
+<p class="body1">
+  암살자는 데미지를 넣는 것을 주로 하며, 근접 암살자와 원거리 암살자로 나뉜다.
+</p>
+
+<h2>지원가</h2>
+<img class="image1" src="marco_image\hots_support.png" alt="support">
+<p class="body1">
+  지원가는 아군 영웅들을 스킬을 이용해 보호해주거나 버프를 주는 역할을 한다. 상대를 공격하여 지원하는 경우도 있다.
+</p>
+
+<h2>전문가</h2>
+<img class="image1" src="marco_image\hots_specialist.png" alt="specialist">
+<p class="body1">
+  전문가는 영웅들끼리의 전투 이외에도 다양한 형태의 플레이로 게임을 진행 할 수 있도록 하는 직업군이다.
+</p>
+
+<a href="https://heroesofthestorm.com/ko-kr/heroes/#/"  target="_blank" style="text-decoration:none;">더 자세한 영웅설명은 이곳으로~</a>
