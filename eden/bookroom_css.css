@@ -35,7 +35,9 @@ a, u {
 }
 li{
   margin-bottom: 10px;
-
+}
+li a {
+    color: #000;
 }
 .point {
   -webkit-box-sizing: border-box;
