@@ -6,6 +6,9 @@ body {
   background-color: #eff4e6;
   background-size: auto 250px;
 }
+a, u {
+  text-decoration: none;
+}
 .title {
   color: #000;
   text-shadow: 4px 4px 10px #333;
