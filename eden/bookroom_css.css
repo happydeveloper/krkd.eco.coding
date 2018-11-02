@@ -1,7 +1,12 @@
-body {
-  background-color: #fff;
+body	{
+  background-image: url('배경화면3.jpg');
+  background-repeat: repeat-x;
+  background-position: top center;
+  background-color: #eff4e6;
+  background-size: auto 250px;
 }
 .title {
+  border-color: #fff;
   font-family: "궁서";
   min-width: 670px;
   margin: 5px;
@@ -36,10 +41,11 @@ li a {
           box-sizing: border-box;
 }
 .list {
+  background-color: #fff;
   margin: 5px;
   min-width: 150px;
   width: 15%;
-  min-height: 475px;
+  min-height: 2450px;
   border: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -71,6 +77,7 @@ li a {
   margin: 3px;
 }
 .content {
+  border-color: #fff;
   margin: 5px;
   border-top: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
@@ -78,5 +85,5 @@ li a {
           box-sizing: border-box;
 }
 .sarth {
-  
+
 }
