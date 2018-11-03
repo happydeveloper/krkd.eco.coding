@@ -88,22 +88,31 @@ li a {
   margin: 3px;
 }
 .content {
+  margin-top: 15px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 10px;
-  background-color: rgba(239, 244, 230, 0.5);
-  border-color: #fff;
-  margin-top: 5px;
-  border-top: #cccccc solid 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
 .calendar {
-
+  background-color: rgba(239, 244, 230, 0.5);
+  border-color: #fff;
+  border-top: #dde7cb solid 2px;
+  min-height: 140px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .event {
-
+  background-color: rgba(239, 244, 230, 0.5);
+  border-color: #fff;
+  border-top: #dde7cb solid 2px;
+  min-height: 140px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .sarth {
 
