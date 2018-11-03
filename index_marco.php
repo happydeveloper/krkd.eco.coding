@@ -87,7 +87,7 @@
               if($list[$i] != '.'){
                 if($list[$i] != '..'){
                 if($list[$i] != 'index'){
-                  echo "<li><a href=\"index_marco.php?content=$list[$i]\">$list[$i]</a></li>\n";
+                  echo "<li><a href=/"index_marco.php?content=$list[$i]/">$list[$i]</a></li>/n";
                 }
               }
             }
@@ -110,7 +110,7 @@
   </div>
 
   <div>
-    <p class="float1"><a href=" https://heroesofthestorm.com/ko-kr/" target="_blank" title="시공조아"><img class="hots_image" src=".\marco_image\heroes_of_the_storm.png" alt="시공"></a></p>
+    <p class="float1"><a href=" https://heroesofthestorm.com/ko-kr/" target="_blank" title="시공조아"><img class="hots_image" src="./marco_image/heroes_of_the_storm.png" alt="시공"></a></p>
   </div>
 
 </body>
