@@ -1,0 +1,269 @@
+/*
+ ☆☆☆display: inline or block;
+*/
+/*
+ border, padding 포함해서 가로세로 맞추기
+ -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+해석
+ -webkit-box-sizing: border-box; (크롬)
+    -moz-box-sizing: border-box; (파이어 폭스)
+         box-sizing: border-box; (기타등등)
+*/
+
+/*
+.step7-position-static {
+        position: static;
+    }
+    .step7-position-relative1 {
+      position: relative;
+      border: solid green 1px;
+    }
+    .step7-position-relative2 {
+      position: relative;
+      border: solid red 1px;
+      top: -20px;
+      left: 20px;
+      background-color: white;
+      width: 500px;
+    }
+    .step7-position-fixed {
+      position: fixed;
+      border: solid yellow 1px;
+      bottom: 0;
+      right: 0;
+      width: 200px;
+      background-color: white;
+    }
+    .step7-position-relative {
+      border: solid red 1px;
+      position: relative;
+      width: 600px;
+      height: 400px;
+    }
+    .step7-position-absolute {
+      position: absolute;
+      border: solid powderblue 1px;
+      top: 120px;
+      right: 0;
+      width: 300px;
+      height: 200px;
+    }
+--------------------------------------------
+    .step7-position-static {
+        position: static;
+    } (기본값)
+    .step7-position-relative1 {
+      position: relative;
+      border: solid green 1px;
+    } (관계맺는) (부모 기준 좌표)
+    .step7-position-relative2 {
+      position: relative;
+      border: solid red 1px;
+      top: -20px;
+      left: 20px;
+      background-color: white;
+      width: 500px;
+    } (브라우저 기준 좌표)
+    .step7-position-fixed {
+      position: fixed;
+      border: solid yellow 1px;
+      bottom: 0;
+      right: 0;
+      width: 200px;
+      background-color: white;
+    } (광고) (따로노는 박스)
+    .step7-position-relative {
+      border: solid red 1px;
+      position: relative;
+      width: 600px;
+      height: 400px;
+    }
+    .step7-position-absolute {
+      position: absolute;
+      border: solid powderblue 1px;
+      top: 120px;
+      right: 0;
+      width: 300px;
+      height: 200px;
+    }
+*/
+
+/*
+.step8-container {
+position: relative;
+}
+nav {
+ position: absolute;
+ left: 0px;
+ width: 200px;
+}
+section {
+ margin-left: 200px;
+ border-left: solid black 1px;
+ border-bottom: solid black 1px;
+}
+footer {
+ position: relative;
+ border-top: solid black 1px;
+ bottom: 0;
+ left: 0;
+ height: 70px;
+ background-color: white;
+ width: 100%;
+}
+body {
+ margin-bottom: 120px;
+}
+-------------------------------
+.step8-container {
+  position: relative;
+}
+nav {
+  position: absolute;
+  left: 0px;
+  width: 200px;
+}
+section {
+  margin-left: 200px;
+  border-left: solid black 1px;
+  border-bottom: solid black 1px;
+}
+footer {
+  position: relative;
+  border-top: solid black 1px;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
+body {
+  margin-bottom: 120px;
+}
+*/
+
+/* 예제 */
+.step6-boxmodel-simple {
+ width: 500px;
+ margin: 20px auto;
+ border: solid red 1px;
+ -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+.step6-boxmodel-fancy {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border: solid blue 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.step7-position-static {
+  position: static;
+}
+.step7-position-relative1 {
+  position: relative;
+  max-width: 500px;
+  text-align: justify;
+  border: solid green 1px;
+}
+.step7-position-relative2 {
+  position: relative;
+  max-width: 500px;
+  text-align: justify;
+  border: solid red 1px;
+  top: -20px;
+  left: 20px;
+  background-color: black;
+  width: 500px;
+}
+.step7-position-fixed {
+  position: fixed;
+  border: solid yellow 1px;
+  bottom: 1px;
+  right: 1px;
+  width: 200px;
+  background-color: #444;
+}
+.step7-position-fixed2 {
+  position: fixed;
+  border: solid yellow 1px;
+  bottom: 1px;
+  right: 1px;
+  width: 200px;
+  min-width: 100%;
+  background-color: #000000;
+}
+.step7-position-relative {
+  border: solid red 1px;
+  position: relative;
+  width: 600px;
+  height: 400px;
+}
+.step7-position-absolute {
+  position: absolute;
+  border: solid powderblue 1px;
+  top: 120px;
+  right: 0;
+  width: 300px;
+  height: 200px;
+}
+
+.step8-container {
+position: relative;
+}
+nav {
+ position: absolute;
+ left: 0px;
+ width: 200px;
+}
+section {
+ margin-left: 200px;
+ border-left: solid black 1px;
+ border-bottom: solid black 1px;
+}
+footer {
+ position: relative;
+ border-top: solid black 1px;
+ bottom: 0;
+ left: 0;
+ height: 70px;
+ background-color: white;
+ width: 100%;
+}
+
+
+ body{
+  background-color: #444;
+  margin-bottom: 120px;
+ }
+
+
+
+ h2{
+   color: white;
+   margin: auto;
+   max-width: 500px;
+   margin: 0 auto 10px auto;
+ }
+ div{
+   color: white;
+   max-width: 500px;
+   margin: 0 auto;
+ }
+ .ㅁ{
+    border: 5px solid #4d4d4d;
+    text-align: justify;
+ }
+ span{
+   display: block;
+   color: white;
+   border: 1px solid red;
+   width: 100px;
+   margin: 0 auto;
+ }

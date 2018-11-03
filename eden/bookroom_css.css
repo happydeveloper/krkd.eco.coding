@@ -1,0 +1,110 @@
+body {
+  margin: 13px;
+  background-image: url('배경.PNG');
+  background-repeat: repeat-x;
+  background-position: top center;
+  background-color: #eff4e6;
+  background-size: auto 250px;
+}
+a, u {
+  text-decoration: none;
+}
+.title {
+  color: #000;
+  //text-shadow: 4px 4px 10px #333;
+  background-color: rgba(255, 153, 51, 0.5);
+  font-family: "고딕";
+  min-width: 670px;
+  margin-bottom: 5px;
+  padding: 20px;
+  font-size: 50px;
+  text-align: center;
+  border-bottom: #dde7cb solid 3px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 120fr;
+  grid-gap: 10px;
+}
+.smalltitle {
+  font-weight:bold;
+  font-size: 20px
+}
+li{
+  margin-bottom: 10px;
+}
+li a {
+    color: #000;
+}
+.point {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.list {
+  padding-left: 5px;
+  background-color: rgba(239, 244, 230, 0.5);
+  min-width: 150px;
+  width: 15%;
+  min-height: 450px;
+  border: #dde7cb solid 3px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.contentlist{
+
+}
+
+.readinglist {
+  background-color: rgba(239, 244, 230, 0.5);
+  border-top: #dde7cb solid 3px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.listgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+.readinglist_book {
+  background-color: rgba(239, 244, 230, 1);
+  border: #dde7cb solid 1px;
+  max-width: 155px;
+  text-align: justify;
+  margin: 2.5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.readinglist_book_date {
+  font-size: 11px
+}
+.readinglist_book_photo {
+  max-width: 150px;
+  margin: 3px;
+}
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  background-color: rgba(239, 244, 230, 0.5);
+  border-color: #fff;
+  margin-top: 5px;
+  border-top: #cccccc solid 2px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.calendar {
+
+}
+.event {
+
+}
+.sarth {
+
+}
