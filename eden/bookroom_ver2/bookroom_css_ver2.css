@@ -32,6 +32,7 @@ a {
           box-sizing: border-box;
 }
 .mainbox {
+  color: #fff;
   font-size: 2em;
   padding: 2em 1em;
   grid-column-start: 3;
@@ -86,4 +87,18 @@ a {
   grid-column-end: 6;
   grid-row-start: 4;
   grid-row-end: 5;
+}
+//.box5x4:hover {
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 4;
+  grid-row-end: 5;
+}
+.box:hover {
+  background-color: #dde7cb;
+  color: #000;
+}
+.mainbox:hover {
+  background-color: rgba(239, 244, 230, 0.5)!important;
+  color: #fff;
 }
