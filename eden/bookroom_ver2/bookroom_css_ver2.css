@@ -13,7 +13,7 @@ a {
   grid-template-columns: repeat(6, 7em);
   grid-auto-rows: 7em;
   grid-gap: 5px;
-  margin: 1em auto;
+  margin: 0.5em auto;
 
   //border: 2px solid #f76707;
   //border-radius: 5px;
@@ -88,12 +88,6 @@ a {
   grid-row-start: 4;
   grid-row-end: 5;
 }
-//.box5x4:hover {
-  grid-column-start: 5;
-  grid-column-end: 7;
-  grid-row-start: 4;
-  grid-row-end: 5;
-}
 .box:hover {
   background-color: #dde7cb;
   color: #000;
@@ -101,4 +95,90 @@ a {
 .mainbox:hover {
   background-color: rgba(239, 244, 230, 0.5)!important;
   color: #fff;
+}
+.eventmain {
+  grid-column-start: 4;
+  grid-column-end: 7;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.calendarmain {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.requestmain {
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+.recommendationmain {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+.feedbackmain {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 4;
+  grid-row-end: 5;
+}
+.searchmain {
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 4;
+  grid-row-end: 5;
+}
+.freeboardmain {
+  background-color: #dde7cb;
+  color: #000;
+}
+.freeboard {
+  grid-column-start: 1;
+  grid-column-end: 7;
+  grid-row-start: 6;
+  grid-row-end: 10;
+}
+.listmain {
+  background-color: #dde7cb;
+  color: #000;
+}
+.list_1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+.list_2 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+.list_3 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+.list_4 {
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+.list_5 {
+  grid-column-start: 5;
+  grid-column-end: 6;
+  grid-row-start: 6;
+  grid-row-end: 7;
+}
+.list_6 {
+  grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 6;
+  grid-row-end: 7;
 }
