@@ -3,7 +3,6 @@ body {
 }
 a {
     text-decoration: none;
-    color: #fff;
 }
 .grid {
   max-width: 43.5em;
@@ -27,6 +26,7 @@ a {
   background-color: rgba(239, 244, 230, 0.5);
   border: #dde7cb solid 0.3em;
   padding: 1em;
+  color: #fff;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -181,4 +181,35 @@ a {
   grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 3;
+  padding: 0.75em;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+#recommendationmain {
+  background-color: rgba(239, 244, 230, 0.5);
+  color: #fff;
+}
+.recommendationtextbox {
+  height: 1.5em;
+}
+.recommendationbox {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(3, 1fr);
+  width: 19.5em;
+  height: 10.5em
+}
+.minibox {
+  border: #dde7cb solid 0.3em;
+  height: 10em;
+}
+#minibox:hover {
+  background-color: #dde7cb;
+  color: #000;
+}
+.recommendation_photo {
+  width: 90%;
+}
+.dateupdated_small {
+  font-size: 0.5em;
 }
