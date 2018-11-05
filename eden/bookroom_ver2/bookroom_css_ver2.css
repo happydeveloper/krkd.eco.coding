@@ -203,7 +203,7 @@ a {
   border: #dde7cb solid 0.3em;
   height: 10em;
 }
-#minibox:hover {
+#minibox_id:hover {
   background-color: #dde7cb;
   color: #000;
 }
