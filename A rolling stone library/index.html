@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>A rolling stone library</title>
+    <link rel="stylesheet" href="./A rolling stone library.css">
+    <script src="./A rolling stone library.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <table id="content">
+      <tr>
+        <td id="Side">
+          <div class="fixed">
+            <div class="Side_Title">
+              Menu
+            </div>
+            <ul>
+              <li><a href="#">구르는 돌 책방이란?</a></li>
+              <li><a href="#">책 찾기</a></li>
+              <li><a href="#">추천 도서</a></li>
+              <li><a href="#">도서 신청</a></li>
+              <li><a href="#">책방 일정<b> · </b>이벤트</a></li>
+              <li><a href="#">자유 개시판</a></li>
+              <li><a href="#">의견, 문의</a></li>
+            </ul>
+          </div>
+        </td>
+        <td id="Main">
+          <div class="Main_Image">
+            <div class="Main_Title">
+              &nbsp;구르는 돌 책방&nbsp;
+            </div>
+            <img src="ImageFile/ex_LibraryImage_pc.jpg" alt="책방 메인 이미지" class="I"><br>
+            <input type="button" name="사진 여닫이 버튼" value="그림 숨기기▲" class="Image_Button" onclick="
+            if(this.value === '그림 숨기기▲') {
+              $('.I').hide();
+              $('.Image_Button').css('margin-top','4.5em');
+              $('.Main_Title').css('height','1.5em').css('margin','auto');
+              $('.Main_Image').addClass('Main_Image_T');
+              $('.Main_Image').removeClass('Main_Image');
+              this.value = '그림 펼치기▼';
+            } else {
+              $('.I').css('display','block');
+              $('.Image_Button').css('margin-top','auto');
+              $('.Main_Title').css('height','1.5em').css('textAlign','start');
+              $('.Main_Image_T').addClass('Main_Image');
+              $('.Main_Image_T').removeClass('Main_Image_T');
+              this.value = '그림 숨기기▲';
+            }">
+          </div>
+          <p><b>구르는 돌 책방이란?</b> <a href="#" class="Detail"> 더보기▶</a> <br>
+            &nbsp;크리킨디 센터 3층에 위치한 작은 책방으로서 누구나 마음껏 편하게 책을 읽다 갈 수 있는 곳입니다.</p>
+          <div class="content">
+            <div class="box">
+              <div>
+                <b>추천 도서</b> <a href="#" class="Detail"> 더보기▶</a>
+              </div>
+              <div class="List Book_List">
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+              </div>
+            </div>
+            <div class="box">
+              <div>
+                <b>책방 일정 · 이벤트</b> <a href="#" class="Detail"> 더보기▶</a>
+              </div>
+              <div class="List Event_List">
+                <div class="list">
+                  이벤트 예시
+                </div>
+                <div class="list">
+                  이벤트 예시
+                </div>
+                <div class="list">
+                  이벤트 예시
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="content">
+            <div class="box">
+              <div>
+                <b>신간 도서</b> <a href="#" class="Detail"> 더보기▶</a>
+              </div>
+              <div class="List Book_List">
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+                <div class="list">
+                  <img src="ImageFile/ex_book.jpg" alt="" class="R_List_Image"><br>
+                  책 제목<br>
+                  <div class="R_List_Name">작가 이름</div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="title_B">
+                자유 개시판 <a href="#" class="Detail"> 더보기▶</a>
+              </div>
+              <table class="BulletinBoard">
+                <tr>
+                  <th id="Point">■</th><th><a href="#">개시판 예시</a></th><th id="day">2018.01.21</th>
+                </tr>
+                <tr>
+                  <th id="Point">■</th><th><a href="#">게시판 예시</a></th><th id="day">2018.01.21</th>
+                </tr>
+                <tr>
+                  <th id="Point">■</th><th><a href="#">개시판 예시</a></th><th id="day">2018.01.21</th>
+                </tr>
+                <tr>
+                  <th id="Point">■</th><th><a href="#">개시판 예시</a></th><th id="day">2018.01.21</th>
+                </tr>
+                <tr>
+                  <th id="Point">■</th><th><a href="#">개시판 예시</a></th><th id="day">2018.01.21</th>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div class="Footer">
+      <div class="F_box">
+        <b>구르는 돌 책방</b><br>
+        A rolling stone library
+      </div>
+    </div>
+  </body>
+</html>

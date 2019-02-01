@@ -1,0 +1,169 @@
+/* 기본 세팅 */
+
+body {
+  background-color: #ffc;
+  margin: 0em;
+}
+a {
+  color: Black;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
+}
+th {
+  font-weight: 400;
+  text-align: left;
+}
+ul {
+  list-style-type: circle;
+  padding-left: 1.5em;
+  margin: 0;
+}
+li {
+  height: 2em;
+}
+
+
+
+/* 사이드 바 */
+
+td#Side {
+  min-width: 12em;
+  border-style: solid;
+  border-width: 0em 0.3em 0em 0em;
+  border-color: #ff9;
+}
+.fixed {
+  position: fixed;
+  top: 1em;
+  left: 0.5em;
+}
+.Side_Title {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+
+
+/* 중앙 내용 */
+
+td#Main {
+  border-color: rgba( 255, 255, 255, 0 );
+  border-style: solid;
+  border-width: 0em 1.5em 0em 1.5em;
+
+}
+
+/* 메인 이미지 */
+.Main_Image {
+  margin: auto;
+  max-width: 42.5em;
+}
+.Main_Image_T {
+  margin: auto;
+  max-width: 15em;
+}
+.I {
+  border: 0.3em solid #ff9;
+  width: 100%;
+  margin-left: -0.3em;
+  min-width: 15em;
+}
+.Main_Title {
+  min-width: 7.5em;
+  position: absolute;
+  top: 0.75em;
+  font-size: 2em;
+  color: Yellow;
+  text-shadow: 2px 2px 5px Black;
+}
+.Image_Button {
+  margin-left: -0.3em;
+}
+
+/* 더보기▶ */
+.Detail {
+  font-size: 0.5em;
+}
+.Detail:hover {
+  font-size: 0.55em;
+}
+
+/* 하단 상세 내용 */
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0.5em;
+}
+@media only screen and (max-width: 60em) {
+  .content {
+    display: block;
+  }
+}
+.box {
+  display: grid;
+  grid-template-rows: 1.5em auto;
+}
+.List {
+  display: grid;
+  grid-gap: 0.3em;
+  margin: 0.5em auto 1em auto;
+}/* 통으로 감싸는 리스트 */
+.list {
+  border-color: #ff9;
+  border-style: solid;
+  border-width: 5px;
+  width: auto;
+  text-align: center;
+  min-height: 3em;
+}/* 세부 개인 리스트 */
+.list:hover{
+  background-color: rgba( 255, 255, 255, 0.5 );
+}
+.Book_List {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.R_List_Image {
+  width: 95%;
+  margin: 2.5%;
+}
+.R_List_Name {
+  font-size: 0.65em
+}
+.Event_List {
+  width: 100%;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+/* 자유게시판 */
+.BulletinBoard{
+  width: 100%;
+  margin: 0.5em auto;
+}
+.title_B{
+  font-weight: bold;
+  border-style: solid;
+  padding-bottom: 0.625em;
+  border: 0em;
+  border-bottom: 0.25em solid #ff9;
+}
+th#Point{
+  font-size: 0.5em;
+  text-align: center;
+}
+th#day{
+  font-size: 0.75em;
+  text-align: right;
+}
+
+
+
+/* 하단 제목 */
+
+.Footer {
+  background-color: #ff9;
+}
+.F_box {
+  padding: 1.5em 0.5em;
+}
